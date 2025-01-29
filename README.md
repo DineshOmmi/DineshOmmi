@@ -26,16 +26,16 @@
 <br><!-- Adds two line breaks for spacing -->
 <div style="width: 100%; margin-bottom: 20px;">
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshommi&show_icons=true&locale=en&layout=compact" alt="dineshommi" style="width:48%; height:200px; object-fit: cover;"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineshommi&show_icons=true&locale=en&layout=compact" alt="dineshommi" style="width:35%; height:200px; object-fit: cover;"/>
     </p>
     <p>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=dineshommi&show_icons=true&locale=en" alt="dineshommi" style="width:48%; height:200px; object-fit: cover;"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=dineshommi&show_icons=true&locale=en" alt="dineshommi" style="width:40%; height:200px; object-fit: cover;"/>
     </p>
 </div>        
 <br><br><br><br><br><br><br><br><br> <!-- Adds space between the div and the image below -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshommi&" alt="dineshommi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshommi&" alt="dineshommi" />  
 </p>
 
 
