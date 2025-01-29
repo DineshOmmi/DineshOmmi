@@ -31,13 +31,13 @@
     <p>
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=dineshommi&show_icons=true&locale=en" alt="dineshommi" style="width:48%; height:200px; object-fit: cover;"/>
     </p>
-</div>
-
+</div>        
 <br><br><br><br><br><br><br><br><br> <!-- Adds space between the div and the image below -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshommi&" alt="dineshommi" />
 </p>
+
 
 
 
