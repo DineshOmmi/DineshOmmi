@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dinesh.ommi.2002@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/frWzh](https://shorturl.at/frWzh)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1amgGhbh1u1x2F33TcvlWQanDKJ7kXLKl/view?usp=sharing)
 
 - ⚡ Fun fact **I believe that every problem has a solution, sometimes it just takes a bit of Googling and a cup of coffee! ☕️🔍**
 
